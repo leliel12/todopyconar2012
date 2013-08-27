@@ -12,4 +12,6 @@ Contents:
     :maxdepth: 2
 
     sponsors.rst
+    staff.rst
+
     postmortem/postmortem.rst
