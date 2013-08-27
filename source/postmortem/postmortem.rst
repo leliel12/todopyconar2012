@@ -3,19 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PyCon Argentina 2012 - Post-Mortem
-==================================
+Post-Mortem
+===========
 
 
 Source: https://bitbucket.org/leliel12/pyconar20012_postmortem
 
-En este caíptulo:
+En este capítulo:
 
 .. toctree::
     :maxdepth: 1
 
     about.rst
-    sponsors.rst
     intro.rst
     objetivos.rst
     agenda.rst

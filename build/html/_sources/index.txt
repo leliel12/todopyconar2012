@@ -9,6 +9,7 @@ Todo PyCon Argentina 2012
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-    postmortem/posmortem.rst
+    sponsors.rst
+    postmortem/postmortem.rst
