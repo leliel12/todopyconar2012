@@ -1,6 +1,6 @@
-﻿=============
-Acerca de ...
-=============
+﻿========================
+Introducción al Capítulo
+========================
 
 Objetivo y estructura de este documento
 ---------------------------------------
@@ -9,7 +9,7 @@ Este documento es el resultado de la ejecución del proceso de selección de sed
 el cual se detalla en el siguiente capítulo; para presentarse ante los miembros
 del Comite de Primera Instancia de selección de seded de PyConAr 2013 y a toda
 la comunidad de Python de la Argentina. Se integra al libro en su versión
-``13.02.09.1020 documentation``
+``13.02.09.1020``
 
 
 Referencias

@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Anexo 2: Selección de Sedes PyCon Argentina 2013
-================================================
+Selección de Sedes PyCon Argentina 2013
+=======================================
 
 Source Orginal: http://bitbucket.org/leliel12/seleccion_pyconar2013
 
