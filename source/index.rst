@@ -14,4 +14,5 @@ Contents:
     sponsors.rst
     staff.rst
 
-    postmortem/postmortem.rst
+    postmortem/index.rst
+    seleccion_pyconar2013/index.rst
