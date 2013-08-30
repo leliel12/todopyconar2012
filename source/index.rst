@@ -14,5 +14,6 @@ Contents:
     sponsors.rst
     staff.rst
 
+    pets/index.rst
     postmortem/index.rst
     seleccion_pyconar2013/index.rst
