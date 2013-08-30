@@ -1,7 +1,8 @@
 Pilas Engine
 ============
 
-    por **Hugo Ruscitti** <hugoruscitti@gmail.com>
+    por **Hugo Ruscitti**
+        - email: hugoruscitti@gmail.com
 
 
 .. image:: pilas/pilas-logo.png

@@ -8,3 +8,4 @@ En este capítulo:
     :maxdepth: 1
 
     pilas.rst
+    rad2py.rst
