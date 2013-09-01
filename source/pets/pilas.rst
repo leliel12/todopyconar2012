@@ -4,7 +4,6 @@ Pilas Engine
     por **Hugo Ruscitti**
         - email: hugoruscitti@gmail.com
 
-
 .. image:: pilas/pilas-logo.png
     :width: 10cm
 
@@ -245,6 +244,15 @@ cualquier idea que tengas. Tus comentarios son
 muy valiosos para que este y otros proyectos puedan
 seguir adelante.
 
+Pilas, Huayra Linux y Conectar Igualdad
+---------------------------------------
+
+En la actualidad Pilas se encuentra disponible en el SO Huayra Linux
+(http://huayra.conectarigualdad.gob.ar/) del programa Conectar Igualdad que
+(http://www.conectarigualdad.gob.ar) lleva adelante el gobierno nacional argentino.
+
+Con esto el proyecto esta al alcance niños de todos los rincones de Argentina.
+
 
 Sobre el autor
 --------------
@@ -257,3 +265,11 @@ cooperativa de trabajo gcoop.
 
 Su mayor hobby es la programación de videojuegos, actividad que difunde y
 realiza junto a los miembros de su sitio http://www.losersjuegos.com.ar/
+
+
+Sobre la nota original
+----------------------
+
+Este artículo aparecio publicado originalmente en la edición número *3* de la
+revista "PET: Python entre todos" (http://revista.python.org.ar). El autor
+accedio al relicenciamiento para este libro.

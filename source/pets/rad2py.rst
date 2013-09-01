@@ -475,6 +475,13 @@ Entusiasta del Software libre Python, PostgreSQL y Web2Py en  particular.
 Actualmente cursa el Master Universitario Internacional en Software Libre
 en la Universitat Oberta de Catalunya.
 
+Sobre la nota original
+----------------------
+
+Este artículo aparecio publicado originalmente en la edición número *4* de la
+revista "PET: Python entre todos" (http://revista.python.org.ar). El autor
+accedio al relicenciamiento para este libro.
+
 
 Referencias
 -----------
