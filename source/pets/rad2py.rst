@@ -126,7 +126,7 @@ Tercera generación
 
 .. figure:: rad2py/proc_dash.png
     :align: center
-    :scale: 250%
+    :scale: 100%
 
     Figura 1: Ejemplo del Process Dashboard para la medición de tiempos y defectos
 
@@ -162,9 +162,9 @@ herramientas **Trac**, **RoundUp**. Se tomará como referencia para la captura y
 de métricas PSP, el sistema **Process DashBoard**. La integración de datos se
 realizará a través de una base de datos relacional.
 
-.. figure:: rad2py/arch.gif
+.. figure:: rad2py/arch.png
     :align: center
-    :scale: 250%
+    :scale: 100%
 
     Figura 2: Esquema general de RAD2PY
 
@@ -296,7 +296,7 @@ sido factores para reconsiderar ciertos aspectos del alcance, tendiendo a
 
 .. figure:: rad2py/deput.png
     :align: center
-    :scale: 250%
+    :scale: 100%
 
     Figura 3: Captura de Pantalla de RAD2PY en funcionamiento  (depurando una app web2py)
 

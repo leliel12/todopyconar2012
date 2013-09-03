@@ -5,7 +5,7 @@ Pilas Engine
         - email: hugoruscitti@gmail.com
 
 .. image:: pilas/pilas-logo.png
-    :width: 10cm
+    :align: center
 
 En este artículo quiero contarles brevemente
 algo sobre el desarrollo de videojuegos, por qué
@@ -100,7 +100,7 @@ de pelotas rebotando:
 
 
 .. image:: pilas/pelotas_rebotando.png
-    :width: 15cm
+    :align: center
 
 
 ¿Y que hay de la gravedad?, se puede cambiar
@@ -141,7 +141,7 @@ indicarle cosas cómo las siguientes:
 
 
 .. image:: pilas/mono_diciendo.png
-    :width: 10cm
+    :align: center
 
 
 También podríamos alterarle algunas propiedades
@@ -214,7 +214,7 @@ una aplicación que te permite ver todos los ejemplos
 de código que incluye pilas:
 
 .. image:: pilas/ejemplos.png
-    :width: 15cm
+    :align: center
 
 
 Mirando hacia el futuro
